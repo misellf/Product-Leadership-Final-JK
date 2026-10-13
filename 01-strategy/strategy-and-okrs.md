@@ -36,20 +36,20 @@ _Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
 
 | Prompt question | What the AI surfaced | Change or defend? |
 |---|---|---|
-| Biggest assumption that could be wrong | _____ | _____ |
-| The board question I can't yet answer | _____ | _____ |
-| KRs that are outputs in disguise | _____ | _____ |
-| The "no" I should reconsider | _____ | _____ |
-| Strategy or wish list? Why? | _____ | · |
+| Biggest assumption that could be wrong | The biggest challenge is whether users will keep paying for Fable once they feel better. They may like the skill tracks and toolkit, but that does not necessarily mean they will see enough ongoing value to renew their subscription.| I would address this by testing renewal intent and willingness to pay before committing the full team.|
+| The board question I can't yet answer |I cannot yet show evidence that the post-acute experience will improve paid renewal, rather than simply give users a better experience before they cancel.| I need an early test that measures actual renewal behaviour, not just positive feedback or feature usage.|
+| KRs that are outputs in disguise | The KRs are outcomes, but they need to be more precise. | I would confirm the baseline and absolute target for retention, use a clearly defined measure for handling stress, and define meaningful reactivation as sustained use rather than simply reopening the app.|
+| The "no" I should reconsider | I would defend the decision not to use streaks, guilt, or loss-aversion tactics, but I would reconsider rejecting all daily goals. | _____ |
+| Strategy or wish list? Why? | I would defend it as a strategy because it makes clear choices about who we will serve, where we will focus, how we will win, and what we will not do. However, the central idea is still a hypothesis until we prove that post-acute value is strong enough to improve paid retention. | · |
 
 ## 5. Self-diagnostic (6 questions)
 
-- [ ] **Clear**: a new PM could read it and know exactly what we will and won't do
-- [ ] **Names the real challenge**: the diagnosis is specific enough to be uncomfortable
-- [ ] **Makes a hard bet**: it says no to something valuable
-- [ ] **Cascadable**: teams can translate it into their own OKRs
-- [ ] **Coherent**: every choice reinforces the others
-- [ ] **Committed**: resources are actually moving toward it
+- [x] **Clear**: a new PM could read it and know exactly what we will and won't do
+- [x] **Names the real challenge**: the diagnosis is specific enough to be uncomfortable
+- [x] **Makes a hard bet**: it says no to something valuable
+- [x] **Cascadable**: teams can translate it into their own OKRs
+- [x] **Coherent**: every choice reinforces the others
+- [x] **Committed**: resources are actually moving toward it
 
 ## Link to full artifact
 
