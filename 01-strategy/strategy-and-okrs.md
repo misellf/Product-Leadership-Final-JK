@@ -1,4 +1,4 @@
-# Product Strategy One-Pager & OKRs: [Fable / Meridian / your initiative]
+# Product Strategy One-Pager & OKRs: [Fable]
 
 > Module 1 · Craft an Advanced Product Strategy, ★ Deliverable 1
 >
