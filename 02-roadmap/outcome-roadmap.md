@@ -24,7 +24,8 @@ _A multi-team roadmap organized by **outcomes**, not feature lists. Near-term wo
 | Later (6 to 12 mo) | **Bet: Explore wearable access if it makes Fable more useful in relevant moments rather than simply increasing activity.** | Toolkit & Re-entry squad; Engineering; Partnerships | Wearable users show improved meaningful practice or reactivation compared with similar mobile-only users. |
 | Later (6 to 12 mo) | **Bet: Expand into additional languages and markets only after the retention model is proven in the US, UK and Canada.** | Product; Content; Localization; Growth | A new market can reproduce the retention improvement with sustainable subscription economics. |
 
-_[screenshot or shareable link to your roadmap visual]_
+<img width="1680" height="1520" alt="Outcome roadmap@1x" src="https://github.com/user-attachments/assets/71282a5b-0d89-4ddd-98a2-f2e8fd663b64" />
+
 
 ## 2. Trade-off memo
 
