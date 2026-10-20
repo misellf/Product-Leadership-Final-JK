@@ -1,4 +1,4 @@
-# Team Charter: [Fable / Meridian / your initiative]
+# Team Charter: Fable
 
 > Module 3 · Lead and Develop High-Performing Teams, ★ Deliverable 3
 >
