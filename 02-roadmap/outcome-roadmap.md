@@ -29,13 +29,13 @@ _A multi-team roadmap organized by **outcomes**, not feature lists. Near-term wo
 
 ## 2. Trade-off memo
 
-_What did you sequence first, what did you push out, and what did you cut entirely, and why? Use WSJF / cost of delay reasoning where it helps._
+_What did you sequence first, what did you push out, and what did you cut entirely, and why?_
 
-> I chose to sequence … first because …
->
-> I pushed out … because …
->
-> I cut … entirely because …
+> **I chose to sequence notification reliability, app performance and accessibility first** because they have a high cost of delay and relatively low-to-moderate effort. Poorly timed notifications damage trust, slow load times create friction when lapsed users return, and unresolved WCAG gaps create customer and legal risk. These improvements also create a reliable foundation for measuring the larger retention bets that follow.
+
+> **I pushed structured resilience practices, the personal toolkit and post-acute transition experience into the next horizon** because they require more discovery, content redesign and cross-functional coordination. Adaptive personalization, wearables and market expansion were pushed further out until the core retention model proves it can improve month-six retention by 15 percentage points, increase reported preparedness by 20 points and double meaningful reactivation.
+
+> **I cut daily streaks, guilt-based nudges, community features, therapist matching, B2B, web and new-user acquisition from this roadmap** because they either conflict with Fable’s trust-based strategy, introduce clinical or operational risk, or distract the 14-person team from the day 90–150 retention problem. The cost of delay is higher for proving post-acute value than for expanding into new customers, channels or business models.
 
 ## Link to full artifact
 
