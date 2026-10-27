@@ -35,4 +35,4 @@ The 3.9% conversion threshold protects a minimum 3:1 gross-profit LTV:CAC ratio 
 
 ## Link to full artifact
 
-_[Add the link to this deliverable after committing it to the repository.]_
+04-financial-model/financial-model.md
