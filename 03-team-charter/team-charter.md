@@ -40,4 +40,4 @@ When owners disagree, they document the options, evidence, OKR impact and risks,
 
 ## Link to full artifact
 
-_[link to this deliverable in your repo]_
+https://github.com/misellf/Product-Leadership-Final-JK/blob/1352526bc6416dd11c5a5859e7d0e2dd92aeefce/03-team-charter/team-charter.md
