@@ -39,4 +39,4 @@ _What did you sequence first, what did you push out, and what did you cut entire
 
 ## Link to full artifact
 
-https://github.com/misellf/Product-Leadership-Final-JK/blob/ad84f72a2083d6bd31a4f8475a0e91394249a119/02-roadmap/outcome-roadmap.md
+[02-roadmap/outcome-roadmap.md](https://github.com/misellf/Product-Leadership-Final-JK/blob/ad84f72a2083d6bd31a4f8475a0e91394249a119/02-roadmap/outcome-roadmap.md)
