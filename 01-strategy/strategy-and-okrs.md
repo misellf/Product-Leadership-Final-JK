@@ -53,4 +53,4 @@ _Run the devil's-advocate prompt (in the Sprint 2 guide). Capture the verdict._
 
 ## Link to full artifact
 
-[_[link to your Strategy Sprint Builder export in your repo]_](https://github.com/misellf/Product-Leadership-Final-JK/blob/40731e6d910be0e5007e0f245ec036376f02bf3f/01-strategy/strategy-and-okrs.md)
+[01-strategy/strategy-and-okrs.md](https://github.com/misellf/Product-Leadership-Final-JK/blob/40731e6d910be0e5007e0f245ec036376f02bf3f/01-strategy/strategy-and-okrs.md)
